@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bequest Travel",
-    "currentPage": "www,bequesttravel.co.za.html",
+    "currentPage": "www.bequesttravel.co.za.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 25,
     "versionPublish": "4.3.0",
@@ -36,7 +36,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "www,bequesttravel.co.za.html": {
+    "www.bequesttravel.co.za.html": {
       "settings": {
         "main": true,
         "title": "Bequest Travel",
